@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developement**
 
-- 📝 I regularly write articles on [https://thelarastack.blogspot.com](thelarastack.blogspot.com)
+- 📝 I regularly write articles on <a href="https://thelarastack.blogspot.com">thelarastack.blogspot.com</a>
 
 - 💬 Ask me about **PHP, Laravel,Livewire,Alpinejs,Tailwindcss**
 
